@@ -506,6 +506,11 @@ a.hoverline:hover {
   padding-bottom: 10px;
 }
 
+#education .card-content .row {
+  border-bottom: 1px solid #ddd;
+  padding-bottom: 10px;
+}
+
 .card.large .card-image {
   height: 230px;
 }
